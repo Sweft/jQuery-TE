@@ -1,0 +1,11 @@
+{
+    "name": "jqwidget-te",
+    "version": "1.4.0",
+    "description": "A JQuery wysiwyg text editor",
+    "Author": "Fatih Koca",
+    "main": "jquery-t e-1.4.0.min.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sweft/jQuery-TE"
+    }
+}
